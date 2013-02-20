@@ -1,4 +1,4 @@
 drupal-modules
 ==============
 
-My Drupal Modules Repository
+Drupal Modules Repository
